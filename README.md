@@ -1,28 +1,34 @@
-# client
+# vuex-localstorage-tourism
+
+无后端实现基本数据管理，数据固化使用`localstorage`+`vuex`
+
+使用了element-ui
+
+因使用了`node-sass`,建议使用`cnpm i`安装依赖
 
 ## Project setup
 ```
-yarn install
+cnpm i
 ```
 
 ### Compiles and hot-reloads for development
 ```
-yarn run serve
+yarn serve
 ```
 
 ### Compiles and minifies for production
 ```
-yarn run build
+yarn build
 ```
 
 ### Run your tests
 ```
-yarn run test
+yarn test
 ```
 
 ### Lints and fixes files
 ```
-yarn run lint
+yarn lint
 ```
 
 后台管理路径
